@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://enujuuti.github.io/aox/sitemap_index.txt
+Sitemap: https://enujuuti.github.io/dXL/sitemap_index.txt
+Sitemap: https://enujuuti.github.io/kGA/sitemap_index.txt
+Sitemap: https://enujuuti.github.io/xSk/sitemap_index.txt
